@@ -1,5 +1,5 @@
 # Covid19Predictions by Shaun Kallis
-Very simplistic but so far surpisingly accurate model predicting the number of people affected by corona virus on a given date. (Also called novel coronal virus, nCov-19 or COVID-19)
+Very simplistic but so far surpisingly accurate model predicting the number of people affected by corona virus on a given date. (Also called novel coronal virus, nCov-19, Covid19 or COVID-19)
 
 China may see over 400,000 infected and over 9000 dead by the end of February if their containment measures are not effective.  Without effective containment measure the world may see 24 million cases and over 600,000 dead by the end of March.  Over 1.3 billion infected and over 30 million dead by the end of April.  These are worst case numbers based on official data.  Everyone having been infected and 10-20% of the world dead by the end of May
 
