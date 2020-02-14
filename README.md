@@ -1,7 +1,9 @@
-# Covid19Predictions
+# Covid19Predictions by Shaun Kallis
 Very simplistic but so far surpisingly accurate model predicting the number of people affected on a given date.
 
-The numbers presented here are shocking.  The rate of infection appears to be roughly compounding at 14% daily.  10-20% of those infected die.  The numbers indicate, from the time a person is officially counted as infected to the time they have an outcome(recovery or death) is about 12-16 days .  They indicate how quickly it will spread around the world if it continues to spread at the dame rate.  It is unlikely that it will spread at the same rate outside of China if governments and the World Health Organization take decisive action.
+China may see over 400,000 infected and over 9000 dead by the end of February if their containment measures are not effective.  Without effective containment measure the world may see 24 million cases and over 600,000 dead by the end of March.  Over 1.3 billion infected and over 30 million dead by the end of April.  These are worst case numbers based on official data.  Everyone having been infected and 10-20% of the world dead by the end of May
+
+The numbers presented here are shocking.  The rate of infection appears to be roughly compounding at 14% daily.  10-20% of those infected die.  The numbers indicate, from the time a person is officially counted as infected to the time they have an outcome (recovery or death) is about 12-16 days.  This report indicates how quickly the virus will spread around the world if it continues to spread at the same rate.  It is unlikely that it will spread at the same rate outside of China if governments and the World Health Organization take decisive action.  Even within China it is unlikely that it will continue to spread at the same rate given that quarenteen meausures are in place and the public is now informed enough to take precautions to protect themselves.
 
 The numbers presented here are official numbers.
 Sources of informations: 
